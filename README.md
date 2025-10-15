@@ -45,11 +45,5 @@ O modelo foi testado com imagens do conjunto de teste, gerando detecções corre
 
 ---
 
-## 🎥 Demonstração
-
-- **Vídeo no YouTube (não listado)**: [link_do_video_aqui]
-
----
-
 ## 👨‍💻 Integrantes
 - Augusto Lopes Lyra (558209)
